@@ -1,0 +1,100 @@
+ Birch Avenue Putney UK,13-5-1990,FEMALE,CS
+ Cemetery Ridge USA,31-10-1989,MALE,EE
+ 185 West 74th Street New York New York,3-2-1993,MALE,ME
+ 607 South Maple Street USA,7-11-1993,MALE,ME
+ 711 Calhoun Street Chicago Illinois,27-2-1990,MALE,ME
+ alternately 711 Maple Street USA,16-11-1993,FEMALE,ME
+ 8411 12 Sunset Boulevard Hollywood California,20-11-1989,MALE,CE
+ 890 Fifth Avenue Manhattan New York City,29-10-1992,FEMALE,ME
+ 320 Fowler Street Lynbrook New York,3-7-1991,FEMALE,CE
+ Wayne Manor Gotham City USA,2-1-1995,MALE,CS
+ 123 Marshall Road Hydsberg New York,17-4-1992,MALE,ME
+ 62 Achewood Court,6-10-1991,MALE,CS
+ 52 Festive Road Putney London UK,25-10-1992,MALE,EE
+ 1910 Ezekiel Drive Seattle WA,28-9-1992,FEMALE,ME
+ 12 Grimmauld Place London UK,1-2-1994,FEMALE,EE
+ 7 Eccles St,5-11-1993,FEMALE,EE
+ 1060 West Addison Street Chicago Illinois,29-6-1994,MALE,EE
+ Number 9 Filbert Street,14-8-1994,MALE,EE
+ 36 Randolph Street Swindon,8-9-1995,FEMALE,CE
+ 30 Kelsall Street Liverpool,13-12-1995,FEMALE,ME
+ 323 East 57th Street New York New York,26-2-1993,MALE,EE
+ 3344 Oak Hills Drive Fairfield Connecticut,22-10-1989,FEMALE,CE
+ 4222 Clinton Way Los Angeles California,2-7-1994,MALE,CE
+ 1640 Riverside Drive Hill Valley California,22-1-1990,MALE,CS
+ Blossom Avenue UK,2-7-1995,FEMALE,EE
+ 164 North Dutton Street Santa Monica CA,19-5-1994,MALE,CS
+ 5 Morton St Apt 14 New York City New York Manhattan USA,22-4-1993,FEMALE,CE
+ 9764 Jeopardy Lane Chicago Illinois,30-4-1993,FEMALE,CE
+ 704 Hauser Street New York City New York Astoria Queens,9-11-1989,FEMALE,ME
+ 9 Chickweed Lane daily comic strip of the same name,1-2-1991,FEMALE,ME
+ 28 Crawford Street a corner away from Baker Street in London,11-3-1994,MALE,CE
+ 1000 Mammon Lane Springfield USA,13-4-1992,MALE,ME
+ 15 Jubilee Terrace until 1962 then 5 Coronation Street Weatherfield Greater Manchester UK,7-2-1989,FEMALE,EE
+ 720 Sedgewick Cleveland Ohio,13-9-1993,MALE,ME
+ 173 Essex Drive Denver CO,29-8-1990,FEMALE,CS
+ 518 Crestview Drive Beverly Hills California,7-6-1991,MALE,CS
+ 700 block of North Wilton Place Los Angeles California,9-9-1991,MALE,EE
+ 485 Maple Street later 211 Pine Street Mayfield USA,8-11-1992,MALE,EE
+ Belvedere Mansion Los Angeles California,29-5-1993,FEMALE,ME
+ 714 Delaware Lanford IL,23-1-1993,FEMALE,EE
+ Apartment 1901 Elliott Bay Towers Seattle Washington,26-8-1993,FEMALE,ME
+ 565 North Clinton Drive Milwaukee WI,25-2-1995,MALE,EE
+ Mordhaus exact location unknown,11-5-1994,FEMALE,CS
+ 6151 Richmond Street Miami Florida,27-12-1989,FEMALE,EE
+ Smithwood Manor Allen Road Kent England,2-9-1995,MALE,CS
+Marsh Slopshire England,28-4-1989,FEMALE,CS
+ 1313 Webfoot Walk Duckburg Calisota,24-10-1992,FEMALE,CS
+ 4 Privet Drive Little Whinging Surrey UK,20-9-1989,MALE,EE
+ 420 Paper St Wilmington DE 19886,17-9-1994,FEMALE,CE
+ Blandings Castle Shropshire,11-1-1992,FEMALE,CS
+321 North Gilbert Chicago IL,16-9-1992,FEMALE,EE
+ Southfork Ranch Braddock County Texas USA,14-7-1993,FEMALE,CS
+ The Baxter Building New York New York,4-12-1990,FEMALE,CS
+ Fawlty Towers Hotel Torquay Torbay UK,29-7-1995,MALE,EE
+ 740 Evergreen Terrace,14-9-1994,MALE,CE
+ 698 Candlewood Lane Cabot Cove ME,4-8-1990,MALE,ME
+ 7 Savile Row Burlington Gardens London UK,11-7-1991,MALE,EE
+ 21 Jumbo Street Bluffington USA,28-1-1992,MALE,CE
+ 32 Windsor Gardens London,28-10-1989,MALE,CE
+ 698 Sycamore Road San Pueblo CA,9-5-1990,FEMALE,EE
+ 12 Coleridge Close Climthorpe London UK,2-1-1989,MALE,CE
+ 6151 Richmond Street Miami Beach Florida,31-7-1991,MALE,CE
+ 1 Cloud Street West Leederville Perth Western Australia,31-3-1995,FEMALE,CS
+ Apt 56B Whitehaven Mansions Sandhurst Square London W1 UK,6-11-1989,MALE,CS
+ 71B Praed Street London UK,15-5-1993,FEMALE,CE
+ 17230 Valley Road USA,20-10-1995,MALE,CE
+Privet Drive Little Whinging Surrey,26-4-1993,MALE,CE
+ 88 Edgemont Palisades California,6-1-1989,FEMALE,EE
+623 East 68th Street New York New York,19-9-1993,MALE,CE
+ Apartment D 119 North Weatherly Avenue Minneapolis MN,20-1-1995,MALE,ME
+ 2354 Pacific Coast Highway California USA,15-12-1994,FEMALE,EE
+ Highgate Avenue Highgate,10-10-1992,FEMALE,ME
+ 9114 S Central Ave Watts Los Angeles California,12-5-1993,MALE,CS
+ 3170 W 53 Rd 35 Annapolis Maryland,7-8-1992,FEMALE,ME
+ 4355 Wisteria Lane Fairview Eagle State,14-4-1991,MALE,EE
+ 15 Robin Hood Lane USA,31-12-1994,MALE,CE
+ Apartment 5A 129 West 81st Street New York,21-6-1994,MALE,EE
+ Heriberto Frias 15 Mexico City,30-10-1994,MALE,CE
+ 124 Bluestone Road Cincinnati OH,4-4-1992,FEMALE,CE
+ Glad Tidings Mission 16 Coronation Street Weatherfield UK,27-1-1995,MALE,CE
+ 742 Evergreen Terrace Springfield USA,29-11-1991,MALE,ME
+ Maple Systems Road Cypress Creek USA,7-10-1991,FEMALE,EE
+633 Stag Trail Road in North Caldwell New Jersey USA,3-6-1991,MALE,CS
+ 124 Conch Street Bikini Bottom Pacific Ocean,6-2-1992,MALE,EE
+ 133 Collins Road Westbridge USA ,8-4-1993,MALE,CS
+ 120 Conch Street Bikini Bottom Pacific Ocean,14-9-1990,MALE,CS
+ 1710 Bryn Mawr Avenue Philadelphia PA,13-3-1994,MALE,CE
+ 1164 Morning Glory Circle Westport CT ,14-5-1989,MALE,CS
+ 24 Oil Drum Lane Shepherds Bush UK,8-2-1989,FEMALE,ME
+3926 Hillsdale,12-10-1991,FEMALE,CE
+177A Bleecker Street in New Yorks Greenwich Village,31-5-1993,MALE,CS
+ 1521 Sycamore Atlanta GA,31-5-1994,FEMALE,ME
+ 1630 Revello Drive Sunnydale CA,13-2-1991,FEMALE,CE
+ Apartment 4A later 3D 623 East 68th Street New York New York,20-11-1995,MALE,CS
+ Apartment D 119 North Weatherly Avenue Minneapolis MN,30-6-1992,MALE,ME
+ 2354 Pacific Coast Highway California USA,10-2-1993,FEMALE,CS
+ Highgate Avenue Highgate,2-11-1989,FEMALE,CS
+ 1020 Palm Drive Cocoa Beach FL,5-4-1995,FEMALE,ME
+ Succoth and Ash Tree Lane,5-12-1990,MALE,ME
+ Apartment 5E 129 West 81st Street New York New York,11-12-1991,FEMALE,ME
